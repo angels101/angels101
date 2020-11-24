@@ -46,12 +46,13 @@ Any project both small and large scale such as:
 
 ## 1. 👯 https://github.com/wigglestechnologies/african_tours.git
 ## 2. 👯 https://github.com/MissAnnah95/tours.git
-## 3. 👯 future git ollaborations~works!!!  
+## 3. 👯 future git collaborations~works!!!  
 
 ## 🌱 I’m currently learning:
 1. JAVA Programming.
 2. Android Stack.
 3. Blockchain Technology.
+4. 
 
 
 ##    ⚡ Fun fact: 
