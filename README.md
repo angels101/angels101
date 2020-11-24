@@ -30,6 +30,11 @@ This is a platform for reporting corruption casses or any vice against social-ec
 ##  💬 Ask me about
  <p> 🌱 Am responsible for designing computer or mobile applications. The nature of my work is largely focused on creating for consumers. 
           This involves understanding user needs, developing software solutions, monitoring performance and modifying programs as needed.</p>
+## Badges
+
+## https://www.youracclaim.com/badges/23051134-e5dc-4b27-a10f-d2c54474a930/linked_in
+## https://www.youracclaim.com/badges/4d68d4e2-1746-4515-9c76-9cb620cfec9f/linked_in
+## more on the way watch out for this.....
           
  ##   Daily Tasks
  Meeting with clients and Project Managers to design and develop new software.
