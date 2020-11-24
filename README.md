@@ -32,8 +32,9 @@ This is a platform for reporting corruption casses or any vice against social-ec
           This involves understanding user needs, developing software solutions, monitoring performance and modifying programs as needed.</p>
 ## Badges
 
-1.              https://www.youracclaim.com/badges/23051134-e5dc-4b27-a10f-d2c54474a930/linked_in
-2.              https://www.youracclaim.com/badges/4d68d4e2-1746-4515-9c76-9cb620cfec9f/linked_in
+1.  🌱 https://www.youracclaim.com/badges/23051134-e5dc-4b27-a10f-d2c54474a930/linked_in
+
+2 🌱  https://www.youracclaim.com/badges/4d68d4e2-1746-4515-9c76-9cb620cfec9f/linked_in
                              more on the way watch out for this.....
           
  ##   Daily Tasks
