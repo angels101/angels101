@@ -3,7 +3,7 @@ You are   ✨✨✨ _special_✨✨✨ that you are here!!
 ## Welcome.
 <!--
 **angels101/angels101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+“The universe is a pretty big place. If it's just us, seems like an awful waste of space.”
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,7 +15,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+from dataclasses import dataclass
+from typing import Sequence
 
+
+
+@dataclass(frozen=True)
+class Portfolio:
+    name: str = 'Arthur Ngari'
+    location: str = 'Nairobi Kenya'
+    profile: str = 'Python-Django Developer, Linux User, 5G'
+    experience: str = '3+ years'
+    hobbies: Sequence[str] = 'Novels', 'Coffee', 'open source', 'clean code'
 ## 🔭 I’m currently working on: 
 
 ##  1. Afriqtube:
