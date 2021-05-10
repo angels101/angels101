@@ -13,20 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-from dataclasses import dataclass
-from typing import Sequence
-
-
-
-@dataclass(frozen=True)
-class Portfolio:
-    name: str = 'Arthur Ngari'
-    location: str = 'Nairobi Kenya'
-    profile: str = 'Python-Django Developer, Linux User, 5G'
-    experience: str = '3+ years'
-    hobbies: Sequence[str] = 'Novels', 'Coffee', 'open source', 'clean code'
+- ⚡ Fun fact: 
 ## 🔭 I’m currently working on: 
 
 ##  1. Afriqtube:
