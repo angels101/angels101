@@ -12,11 +12,11 @@ Welcome to my GitHub profile! I'm a passionate Hybrid Fullstack Developer with a
 
 ### 👨‍🎓 🔭🔭  DIGITAL CERTIFICATES 🔭🔭 
 
-[ https://www.coursera.org/account/accomplishments/specialization/certificate/7XJJG3N25NQ4 ]
-                    [ https://www.coursera.org/account/accomplishments/certificate/X9DMGCM9HBKP ]
-                    [ https://www.coursera.org/account/accomplishments/certificate/ES29M8E357EC ]
-                    [ https://www.coursera.org/account/accomplishments/certificate/2ZMJV57HKBGP ] 
-                    [ https://www.coursera.org/account/accomplishments/certificate/NUSM9K3DMS8Y ]
+[https://www.coursera.org/account/accomplishments/specialization/certificate/7XJJG3N25NQ4]
+                    [https://www.coursera.org/account/accomplishments/certificate/X9DMGCM9HBKP]
+                    [https://www.coursera.org/account/accomplishments/certificate/ES29M8E357EC]
+                    [https://www.coursera.org/account/accomplishments/certificate/2ZMJV57HKBGP] 
+                    [https://www.coursera.org/account/accomplishments/certificate/NUSM9K3DMS8Y]
 
 
 
